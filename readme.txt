@@ -41,3 +41,7 @@ Yes
 == Arbitrary section ==
 
 == A brief Markdown Example ==
+
+== Upgrade Notice ==
+
+== Screenshots ==
