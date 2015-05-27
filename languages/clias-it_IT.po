@@ -1,0 +1,741 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cookie Law Info Accepting By Scroll\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-23 14:26+0100\n"
+"PO-Revision-Date: 2015-05-23 14:28+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 1.8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#~ msgid "No one"
+#~ msgstr "Nessuno"
+
+#~ msgid "Green number recharge"
+#~ msgstr "Ricarica numero verde"
+
+#~ msgid "Green number"
+#~ msgstr "Numero verde"
+
+#~ msgid "199 Number"
+#~ msgstr "Numero 199"
+
+#~ msgid "199 Recharge"
+#~ msgstr "Ricarica 199"
+
+#~ msgid "Advertising"
+#~ msgstr "Pubblicità"
+
+#~ msgid "Virtual Fax Mail"
+#~ msgstr "Virtual Fax Mail"
+
+#~ msgid "Virtual Fax Mail Recharge"
+#~ msgstr "Ricarica Virtual Fax Mail"
+
+#~ msgid "Fax 800"
+#~ msgstr "Fax 800"
+
+#~ msgid "Fax 800 Recharge"
+#~ msgstr "Ricarica Fax 800"
+
+#~ msgid "Voip Number"
+#~ msgstr "Numero Voip"
+
+#~ msgid "Voip Recharge"
+#~ msgstr "Ricarica Voip"
+
+#~ msgid "Audio Message"
+#~ msgstr "Messaggio audio"
+
+#~ msgid "Number Portability"
+#~ msgstr "Portabilità numero"
+
+#~ msgid "Happy"
+#~ msgstr "Happy"
+
+#~ msgid "Settings Page"
+#~ msgstr "Impostazioni"
+
+#~ msgid "Happy Settings Page"
+#~ msgstr "Pagina impostazioni"
+
+#~ msgid "Configuration Page"
+#~ msgstr "Pagina di configurazione"
+
+#~ msgid "Happy Configuration Page"
+#~ msgstr "Configurazione numero"
+
+#~ msgid "Manage Configuration Page"
+#~ msgstr "Gestione configurazioni"
+
+#~ msgid "Logs Page"
+#~ msgstr "Pagina dei Log"
+
+#~ msgid "Summary services"
+#~ msgstr "Riepilogo dei servizi"
+
+#~ msgid "Summary traffic"
+#~ msgstr "Riepilogo del traffico"
+
+#~ msgid "Bonus management"
+#~ msgstr "Gestione Bonus"
+
+#~ msgid "Traffic Purge"
+#~ msgstr "Purificazione traffico"
+
+#~ msgid "Import CSV"
+#~ msgstr "Importazione CSV"
+
+#~ msgid "My control panel"
+#~ msgstr "Amministrazione servizi"
+
+#~ msgid "Green"
+#~ msgstr "Verde"
+
+#~ msgid "The Bonus Recharge has been created correctly"
+#~ msgstr "Il bonus ricarica è stato creato correttamente"
+
+#~ msgid "Happy 800"
+#~ msgstr "Happy 800"
+
+#~ msgid "New Bonus Recharge created"
+#~ msgstr "Nuovo bonus ricarica creato"
+
+#~ msgid "New Bonus Recharge has been created"
+#~ msgstr "La ricarica bonus è stata creata"
+
+#~ msgid "New Bonus Recharge received"
+#~ msgstr "Nuovo bonus ricarica ricevuto"
+
+#~ msgid "A problem occurred sending email."
+#~ msgstr "Si è verificato un problema durante l'invio della email"
+
+#~ msgid "The Bonus Recharge has not been created."
+#~ msgstr "La ricarica bonus non è stata creata"
+
+#~ msgid "Bonus Management Page"
+#~ msgstr "Pagina di gestione dei bonus ricarica"
+
+#~ msgid "Here you can create and manage bonuses recharge"
+#~ msgstr "In questa pagina puoi creare e gestire i bonus ricarica"
+
+#~ msgid "Add new Bonus recharge"
+#~ msgstr "Aggiungi una nuova ricarica bonus"
+
+#~ msgid "Order ID"
+#~ msgstr "ID Ordine"
+
+#~ msgid "Product ID"
+#~ msgstr "ID Prodotto"
+
+#~ msgid "Customer"
+#~ msgstr "Cliente"
+
+#~ msgid "Service Number"
+#~ msgstr "Numero del servizio"
+
+#~ msgid "Request date"
+#~ msgstr "Data richiesta"
+
+#~ msgid "Activation date"
+#~ msgstr "Data attivazione"
+
+#~ msgid "Expire date"
+#~ msgstr "Data scadenza"
+
+#~ msgid "Amount"
+#~ msgstr "Importo"
+
+#~ msgid "Send Email"
+#~ msgstr "Invia Email"
+
+#~ msgid "Save Changes"
+#~ msgstr "Salva"
+
+#~ msgid "Bonus Recharge Summary"
+#~ msgstr "Riepilogo ricariche bonus"
+
+#~ msgid "Service Type"
+#~ msgstr "Tipo di servizio"
+
+#~ msgid "Aggiungi una Nuova Configurazione"
+#~ msgstr "Aggiungi una Nuova Configurazione"
+
+#~ msgid "Modifica Configurazione"
+#~ msgstr "Modifica Configurazione"
+
+#~ msgid "Nuova Configurazione"
+#~ msgstr "Nuova Configurazione"
+
+#~ msgid "Tutte le Configurazioni"
+#~ msgstr "Tutte le Configurazioni"
+
+#~ msgid "Visualizza Configurazione"
+#~ msgstr "Visualizza Configurazione"
+
+#~ msgid "Ricerca Configurazioni"
+#~ msgstr "Ricerca Configurazioni"
+
+#~ msgid "Nessuna configurazione trovata"
+#~ msgstr "Nessuna configurazione trovata"
+
+#~ msgid "Non ci sono configurazioni nel cestino"
+#~ msgstr "Non ci sono configurazioni nel cestino"
+
+#~ msgid "VAT Number"
+#~ msgstr "Partita IVA"
+
+#~ msgid "Fiscal Code"
+#~ msgstr "Codice Fiscale"
+
+#~ msgid "Here you can set Happy Configuration"
+#~ msgstr "In questa pagina puoi impostare la configurazione di Happy800"
+
+#~ msgid "Insert at least one termination number"
+#~ msgstr "Inserire almeno un Numero di destinazione"
+
+#~ msgid "Please, check the day"
+#~ msgstr "Controllare il giorno"
+
+#~ msgid "Please, check the times"
+#~ msgstr "Controllare gli orari"
+
+#~ msgid "Please, check at least one value"
+#~ msgstr "Scegliere almeno un valore"
+
+#~ msgid "Timeout must be an integer value"
+#~ msgstr "Il valore del Timeout deve essere un intero"
+
+#~ msgid "You entered an invalid email address"
+#~ msgstr "Hai digitato un indirizzo email non valido"
+
+#~ msgid "Please, select one value"
+#~ msgstr "Scegliere un valore"
+
+#~ msgid "New configuration to process"
+#~ msgstr "Nuova Configurazione da processare"
+
+#~ msgid "Your new Happy800 Configuration has been sent"
+#~ msgstr "La tua nuova configurazione Happy800 è stata inviata"
+
+#~ msgid "New Configuration to process"
+#~ msgstr "Nuova Configurazione da processare"
+
+#~ msgid "Configuration sent"
+#~ msgstr "Configurazione inviata"
+
+#~ msgid "A problem occurred sending configuration. Please try again."
+#~ msgstr "Si è verificato un problema durante l'invio della configurazione. Si prega di riprovare"
+
+#~ msgid "Extra user profile informations"
+#~ msgstr "Ulteriori informazioni del profilo utente"
+
+#~ msgid "Account type"
+#~ msgstr "Tipo utenza"
+
+#~ msgid "Company"
+#~ msgstr "Azienda"
+
+#~ msgid "Private"
+#~ msgstr "Privato"
+
+#~ msgid "Enter or modify Account type"
+#~ msgstr "Inserisci o modifica il tipo utenza"
+
+#~ msgid "Foreign VAT Number"
+#~ msgstr "Partita IVA Straniera"
+
+#~ msgid "This is a foreign Vat Number"
+#~ msgstr "Questa è una P. IVA estera"
+
+#~ msgid "Enter or modify VAT Number"
+#~ msgstr "Inserisci o modifica il numero di Partita IVA"
+
+#~ msgid "Enter or modify Fiscal Code"
+#~ msgstr "Inserisci o modifica il Codice Fiscale"
+
+#~ msgid "Please insert"
+#~ msgstr "Inserire"
+
+#~ msgid "numero:"
+#~ msgstr "numero:"
+
+#~ msgid "prefisso:"
+#~ msgstr "prefisso:"
+
+#~ msgid "Select a Service"
+#~ msgstr "Scegli un servizio"
+
+#~ msgid "All"
+#~ msgstr "Tutti"
+
+#~ msgid "Configuration Settings for number"
+#~ msgstr "Configurazione per il numero"
+
+#~ msgid "The Configuration Form has not been saved. Please check the errors and retry."
+#~ msgstr "La Configurazione non è stata salvata. Si prega di controllare gli errori e riprovare."
+
+#~ msgid "The Configuration has been taking in charge and will be processed within the next 8 hours. Once processed, you will receive a confirmation email.."
+#~ msgstr "La Configurazione è stata presa in carico e sarà processata entro le prossime 8 ore. Una volta processata, riceverai una mail di conferma."
+
+#~ msgid "Inserire i numeri telefonici di terminazione:"
+#~ msgstr "Inserire i numeri telefonici di terminazione:"
+
+#~ msgid "Visualizzare numero chiamante?"
+#~ msgstr "Visualizzare numero chiamante?"
+
+#~ msgid "Indirizzo Email:"
+#~ msgstr "Indirizzo Email:"
+
+#~ msgid "Service"
+#~ msgstr "Servizi"
+
+#~ msgid "Select the number to recharge"
+#~ msgstr "Scegli il numero da ricaricare"
+
+#~ msgid "Sorry, you have not permissions for this page"
+#~ msgstr "Si, come no"
+
+#~ msgid "Configuration processed"
+#~ msgstr "Configurazione OK"
+
+#~ msgid "Sorry, an error occurred"
+#~ msgstr "Si è verificato un errore"
+
+#~ msgid "Your configuration has been processed"
+#~ msgstr "La tua Configurazione è stata processata"
+
+#~ msgid "Happy page"
+#~ msgstr "Pagina Happy"
+
+#~ msgid "Welcome to Happy plugin"
+#~ msgstr "Benvenuti in Happy Plugin"
+
+#~ msgid "Import CSV Page"
+#~ msgstr "Pagina importazione CSV"
+
+#~ msgid "Here you can import Happy traffic"
+#~ msgstr "In questa pagina puoi importare il traffico Happy"
+
+#~ msgid "uploaded successfully"
+#~ msgstr "caricato con successo"
+
+#~ msgid "Rows affected"
+#~ msgstr "Righe interessate"
+
+#~ msgid "Label"
+#~ msgstr "Etichetta"
+
+#~ msgid "You do not have sufficient permissions to access this page."
+#~ msgstr "Si, come no"
+
+#~ msgid "Numbers saved"
+#~ msgstr "Numeri  salvato"
+
+#~ msgid "Manage Happy 800 Numbers"
+#~ msgstr "Gestione numeri Happy 800"
+
+#~ msgid "Options relating Happy 800 Numbers"
+#~ msgstr "Opzioni relative ai numeri Happy 800"
+
+#~ msgid "Status erased"
+#~ msgstr "Status cancellato"
+
+#~ msgid "Log ID"
+#~ msgstr "ID Log"
+
+#~ msgid "User ID"
+#~ msgstr "ID Utente"
+
+#~ msgid "Date"
+#~ msgstr "Data"
+
+#~ msgid "Type Entity"
+#~ msgstr "Tipo entità"
+
+#~ msgid "ID Entity"
+#~ msgstr "ID entità"
+
+#~ msgid "Field"
+#~ msgstr "Campo"
+
+#~ msgid "Value"
+#~ msgstr "Valore"
+
+#~ msgid "Action"
+#~ msgstr "Azione"
+
+#~ msgid "Here you can manage Happy Configuration"
+#~ msgstr "In questa pagina puoi impostare le configurationi di Happy800"
+
+#~ msgid "Never configured"
+#~ msgstr "Mai configurato"
+
+#~ msgid "Pending configuration"
+#~ msgstr "Configurazione in attesa"
+
+#~ msgid "User's configurations"
+#~ msgstr "Configurazioni degli utenti"
+
+#~ msgid "ID"
+#~ msgstr "ID"
+
+#~ msgid "Number"
+#~ msgstr "Numero"
+
+#~ msgid "Manage"
+#~ msgstr "Gestisci"
+
+#~ msgid "Happy 800 Custom fields"
+#~ msgstr "Campi personalizzati Happy 800"
+
+#~ msgid "Type a value"
+#~ msgstr "Digita un valore"
+
+#~ msgid "Select Green number"
+#~ msgstr "Scegli un numero verde"
+
+#~ msgid "Select Price plan"
+#~ msgstr "Scegli un Piano tariffario"
+
+#~ msgid "Price plan"
+#~ msgstr "Piano tariffario"
+
+#~ msgid "Select a value"
+#~ msgstr "Scegli un valore"
+
+#~ msgid "Prices"
+#~ msgstr "Piani tariffari"
+
+#~ msgid "Price"
+#~ msgstr "Piano tariffario"
+
+#~ msgid "Add new"
+#~ msgstr "Crea nuovo"
+
+#~ msgid "Add new price"
+#~ msgstr "Crea una nuovo Piano tariffario"
+
+#~ msgid "Edit price"
+#~ msgstr "Modifica Piano tariffario"
+
+#~ msgid "New price"
+#~ msgstr "Nuovo Piano tariffario"
+
+#~ msgid "All Prices"
+#~ msgstr "Tutti i Piani tariffari"
+
+#~ msgid "Show price"
+#~ msgstr "Mostra Piani tariffari"
+
+#~ msgid "Search prices"
+#~ msgstr "Ricerca Piani tariffari"
+
+#~ msgid "No prices found"
+#~ msgstr "Nessun Piano tariffario trovato"
+
+#~ msgid "No prices in trash"
+#~ msgstr "Nessun Piano tariffario nel cestino"
+
+#~ msgid "Start date (dd/mm/yyyy)"
+#~ msgstr "Data inizio (gg/mm/aaaa)"
+
+#~ msgid "End date (dd/mm/yyyy)"
+#~ msgstr "Data fine (gg/mm/aaaa)"
+
+#~ msgid "Fixed phone - 800"
+#~ msgstr "Telefono Fisso - 800"
+
+#~ msgid "to us"
+#~ msgstr "a noi"
+
+#~ msgid "Mobile phone - 800"
+#~ msgstr "Telefono Mobile - 800"
+
+#~ msgid "800 - Fixed phone"
+#~ msgstr "800 - Telefono Fisso"
+
+#~ msgid "800 - Mobile phone"
+#~ msgstr "800 - Telefono Mobile"
+
+#~ msgid "Connection fee Fixed phone"
+#~ msgstr "Scatto alla risposta Telefono Fisso"
+
+#~ msgid "Connection fee Mobile phone"
+#~ msgstr "Scatto alla risposta Telefono Mobile"
+
+#~ msgid "Here you can set Happy Options"
+#~ msgstr "In questa pagina puoi impostare le opzioni di Happy"
+
+#~ msgid "Services Summary page"
+#~ msgstr "Pagina di riepilogo dei Servizi"
+
+#~ msgid "Here you can view your services"
+#~ msgstr "In questa pagina puoi  controllare i tuoi servizi"
+
+#~ msgid "Balance summary"
+#~ msgstr "Riepilogo bilancio"
+
+#~ msgid "Credit"
+#~ msgstr "Credito"
+
+#~ msgid "Total costs"
+#~ msgstr "Totale costi"
+
+#~ msgid "Traffic revenues"
+#~ msgstr "Ricavi da traffico"
+
+#~ msgid "Hypothetical revenue"
+#~ msgstr "Ricavi ipotetici"
+
+#~ msgid "Spent"
+#~ msgstr "Spesa"
+
+#~ msgid "Left"
+#~ msgstr "Rimanente"
+
+#~ msgid "Purchases and recharges"
+#~ msgstr "Acquisti e ricariche"
+
+#~ msgid "Prod. ID"
+#~ msgstr "ID Prod."
+
+#~ msgid "Limit"
+#~ msgstr "Soglia"
+
+#~ msgid "Details"
+#~ msgstr "Dettagli"
+
+#~ msgid "Traffic Summary page"
+#~ msgstr "Pagina di riepilogo del traffico"
+
+#~ msgid "Here you can view your straffic detail"
+#~ msgstr "In questa pagina puoi controllare il tuo dettaglio traffico"
+
+#~ msgid "Start date"
+#~ msgstr "Data inizio"
+
+#~ msgid "End date"
+#~ msgstr "Data fine"
+
+#~ msgid "Filter results"
+#~ msgstr "Filtra risultati"
+
+#~ msgid "Date call"
+#~ msgstr "Data chiamata"
+
+#~ msgid "Duration"
+#~ msgstr "Durata"
+
+#~ msgid "Call charge"
+#~ msgstr "Costo chiamata"
+
+#~ msgid "Calling number"
+#~ msgstr "Numero chiamante"
+
+#~ msgid "Operator"
+#~ msgstr "Operatore"
+
+#~ msgid "Destination number"
+#~ msgstr "Numero destinazione"
+
+#~ msgid "Price by min."
+#~ msgstr "Costo al minuto"
+
+#~ msgid "Conn. Fee"
+#~ msgstr "Scatto risp."
+
+#~ msgid "Not due traffic"
+#~ msgstr "Traffico non dovuto"
+
+#~ msgid "Here you can view the calls charged but not due"
+#~ msgstr "In questa pagina puoi visualizzare le chiamate conteggiate ma non dovute"
+
+#~ msgid "is not valid"
+#~ msgstr "non valido"
+
+#~ msgid "Voip number recharge"
+#~ msgstr "Ricarica numero Voip"
+
+#~ msgid "Voip number"
+#~ msgstr "Numero Voip"
+
+#~ msgid "Happy Voice Custom fields"
+#~ msgstr "Campi personalizzati Happy Voice"
+
+#~ msgid "Select Voip number"
+#~ msgstr "Scegli il numero Voip"
+
+#~ msgid "My Traffic"
+#~ msgstr "Il mio traffico"
+
+#~ msgid "Geo Area"
+#~ msgstr "Geo Area"
+
+#~ msgid "Traffic details"
+#~ msgstr "Dettaglio traffico"
+
+#~ msgid "Select Green Number"
+#~ msgstr "Scegli un numero verde"
+
+#~ msgid "Fax"
+#~ msgstr "Fax"
+
+#~ msgid "Delete"
+#~ msgstr "Cancella"
+
+#~ msgid "Add more files"
+#~ msgstr "Aggiungi più files"
+
+#~ msgid "Here you can view user's log actions"
+#~ msgstr "In questa pagina puoi controllare i log delle azioni"
+
+#~ msgid "Happy log actions"
+#~ msgstr "Log azioni Happy"
+
+#~ msgid " numero:"
+#~ msgstr "numero:"
+
+#~ msgid "Edit"
+#~ msgstr "Modifica"
+
+#~ msgid "Log list"
+#~ msgstr "Lista Log"
+
+#~ msgid "Settings updated"
+#~ msgstr "Impostazioni aggiornate"
+
+#~ msgid "General Settings"
+#~ msgstr "Impostazioni generali"
+
+#~ msgid "Select Plugin Type"
+#~ msgstr "Scegli il tipo di Plugin"
+
+#~ msgid "Happy Voice"
+#~ msgstr "Happy Voice"
+
+#~ msgid "Choose which plugins you want to enable. Its functionality will adjust automatically"
+#~ msgstr "Scegli quale plugin si desidera attivare. Le funzionalità si regoleranno automaticamente"
+
+#~ msgid "First Name"
+#~ msgstr "Nome"
+
+#~ msgid "Last Name"
+#~ msgstr "Cognome"
+
+#~ msgid "Address"
+#~ msgstr "Indirizzo"
+
+#~ msgid "Town/City"
+#~ msgstr "Città"
+
+#~ msgid "Postcode/Zip"
+#~ msgstr "CAP"
+
+#~ msgid "Country"
+#~ msgstr "Provincia"
+
+#~ msgid "State/County"
+#~ msgstr "Stato/Paese"
+
+#~ msgid "Email Address"
+#~ msgstr "Indirizzo Email"
+
+#~ msgid "Phone"
+#~ msgstr "Telefono"
+
+#~ msgid "Authorization processing data"
+#~ msgstr "Autorizzazione al trattamento dei dati"
+
+#~ msgid "Authorization for the processing of personal data"
+#~ msgstr "Autorizzazione al trattamento dei dati personali"
+
+#~ msgid "Acceptance terms and conditions"
+#~ msgstr "Termini e le condizioni di accettazione"
+
+#~ msgid "I accept the terms and conditions"
+#~ msgstr "Accetto i termini e le condizioni"
+
+#~ msgid "Reading file"
+#~ msgstr "Lettura del file"
+
+#~ msgid "Total amount"
+#~ msgstr "Importo totale"
+
+#~ msgid "Total amount Phone Shop"
+#~ msgstr "Importo totale"
+
+#~ msgid "Income"
+#~ msgstr "Proventi"
+
+#~ msgid "An error occurred"
+#~ msgstr "Si è verificato un errore"
+
+#~ msgid "Upload new CSV file by browsing to file and clicking on Upload"
+#~ msgstr "Carica un nuovo file CSV sfogliando i files e poi clicca sul pulsante Carica"
+
+#~ msgid "File name to import:"
+#~ msgstr "Nome del file da importare"
+
+#~ msgid "Upload"
+#~ msgstr "Carica"
+
+#~ msgid "Summary Services"
+#~ msgstr "Riepilogo dei servizi"
+
+#~ msgid "Fiscal Code is not valid."
+#~ msgstr "Il COdice Fiscale non è valido"
+
+#, fuzzy
+#~ msgid "Happy800 Configuration processed"
+#~ msgstr "Configurazione OK"
+
+#, fuzzy
+#~ msgid "Happy800"
+#~ msgstr "Happy 800"
+
+#~ msgid "Happy800 New Configuration to process"
+#~ msgstr "Happy800 Nuova Configurazone da processare"
+
+#~ msgid "Balance"
+#~ msgstr "Bilancio"
+
+#~ msgid "Total call"
+#~ msgstr "Totale chiamate"
+
+#~ msgid "Mobile phone - Mobile phone"
+#~ msgstr "Telefono Mobile - Telefono Mobile"
+
+#~ msgid "Log Page"
+#~ msgstr "Pagina Log"
+
+#~ msgid "Call ID"
+#~ msgstr "ID chiamata"
+
+#~ msgid "Default Status"
+#~ msgstr "Stato di Default "
+
+#~ msgid "Unread"
+#~ msgstr "Non letto"
+
+#~ msgid "Mario Plugin"
+#~ msgstr "Mario Ciao"
+
+#~ msgid "Insert"
+#~ msgstr "Inserimento"
+
+#~ msgid "Modify"
+#~ msgstr "Modifica"
+
+#~ msgid "Hello World."
+#~ msgstr "Ciao Mondo"
