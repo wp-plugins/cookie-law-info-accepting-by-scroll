@@ -3,8 +3,8 @@ Contributors: Carmine Ricco
 Author URI: http://www.syriusweb.com
 Tags: cookie law, cookie, cookielaw, scroll, accept  
 Requires at least: 3.1
-Tested up to: 4.2.2
-Stable tag: 1.0.0
+Tested up to: 4.2.4
+Stable tag: 1.1
 License: GPLv2
 
 This plugin works with the Cooke Law Info plugin by Richard Ashby and permits acceptance of the use of cookies by scrolling page.
@@ -15,6 +15,9 @@ This plugin integrates with the Cookie Law Info plugin by Richard Ashby and perm
 Also reloads the page after clicking on the "accept" button.
 
 == Changelog ==
+
+= 1.0.2 =
+* Added Icon
 
 = 1.0.0 =
 * Release

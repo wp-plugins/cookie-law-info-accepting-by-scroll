@@ -3,7 +3,7 @@
 	Plugin Name: Cookie Law Info Accepting By Scroll
 	Plugin URI: http://www.syriusweb.com
 	Description: This plgin, used in conjunction with Cookie Law Info plugin by Richard Ashby, permits acceptance of the use of cookies on your device by scrolling the page. Also reloads the page after clicking on the "accept" button.
-	Version: 1.0
+	Version: 1.1
 	Author: Carmine Ricco
 	Author URI: http://www.syriusweb.com
 	License: GPL2
@@ -38,9 +38,7 @@ if ( in_array( 'cookie-law-info/cookie-law-info.php', apply_filters( 'active_plu
 	add_action( 'init','clias_init_js');
 	function clias_init_js() {
 			
-		wp_enqueue_script('jquery_cookie_js', plugins_url('/js/jquery.cookie.js',__FILE__ ), array('jquery'), false, true);
-		
-		//wp_register_script('clias_js', plugins_url('/js/clias.js',__FILE__ ));	
+		wp_enqueue_script('jquery_cookie_js', plugins_url('/js/jquery.cookie.js',__FILE__ ), array('jquery'), false, true);		
 		wp_enqueue_script('clias_js', plugins_url('/js/clias.js',__FILE__ ), array(), false, true );
 		
 	}
